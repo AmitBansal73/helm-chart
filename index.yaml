@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://github.com/AmitBansal73/helm-chart.git/helm-chart-test-0.1.0.tgz
-    version: 0.1.0
+    version: 1.0.0
 generated: "2021-03-07T12:07:33.5019653+05:30"
